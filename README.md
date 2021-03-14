@@ -1,2 +1,2 @@
-# lerning
+# learning
 coach Vadim Ksendzov
