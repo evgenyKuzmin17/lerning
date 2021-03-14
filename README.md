@@ -1,2 +1,2 @@
 # lerning
-coach Vadim
+coach Vadim Ksendzov
