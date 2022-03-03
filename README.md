@@ -1,2 +1,1 @@
 # learning
-coach Vadim Ksendzov
